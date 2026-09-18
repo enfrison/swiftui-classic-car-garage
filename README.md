@@ -55,6 +55,12 @@ This project was developed to strengthen my understanding of Swift and SwiftUI b
 
 Software Engineering & Information Technology Student
 
+## Screenshots
 
+### Garage Closed
+![Classic Car Garage Closed](garage-closed.png)
+
+### Garage Open
+![Classic Car Garage Open](garage-open.png)
 
 
